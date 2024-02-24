@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" >
+    <head>
+        <title>Problem Report</title>
+
+        
+        <meta name="Description" content="ritaj.birzeit.edu - Academic and Administrative Portal for Birzeit, the Palestinian University in the West Bank." />
+        <meta name="keywords" content="Ritaj, Palestine, Jerusalem, Alquds, Ramallah, Birzeit, Bir Zeit, University, Israeli Palestinian conflict, Israel, Palistine, Peace Process, Hebron, Bethlehem, International Programme, International Program, Palestinian Legislative Council, PLO, Palestine Liberation Organisation, Palestinian National Authority, Palestinian Authority, PNA, PA, Palestinian, Israelis,  Oslo Agreements, West Bank, Gaza, Gaza Strip, Middle East, Al-Quds, Palestinian Culture, Arab World, Oslo, Al Quds, Palestinian Refugees, Al-Nakba, Edward Said, Naji Ali, Egypt, Jordan, Arabic" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta http-equiv="Content-Script-Type" content="text/javascript" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        
+        <link rel="shortcut icon" href="/images/favicon.ico" type="image/vnd.microsoft.icon" />
+        <link rel="stylesheet" type="text/css" href="/resources/jquery/css/jquery-ui-latest.custom.css"  media="all" />
+        <link rel="stylesheet" type="text/css" href="/resources/master.min.css" media="all" />
+        <link rel="stylesheet" type="text/css" href="/resources/css/font-awesome.min.css" media="all" />
+        <link rel="stylesheet" type="text/css" href="/resources/css/introjs.min.css" media="all" />
+        
+        <link rel="stylesheet" type="text/css" href="/resources/css/master.css" media="all" />
+        
+        <script src="/resources/ac.js"></script>
+        <script src="/resources/acs-subsite/core.js"></script>
+        <script src="/resources/jquery/jquery-latest.min.js"></script>
+        <script src="/resources/jquery/jquery-ui-latest.custom.min.js"></script>
+        <script src="/resources/intro.min.js"></script>
+        <script src="/resources/default.js"></script>
+        <script src="/resources/default2.js"></script>
+        
+        
+<if 60 not nil>
+	<meta http-equiv="refresh" content="60;url=/">
+</if>
+
+    </head>
+    <body dir="ltr" class="ltr" >
+        
+            <div class="master-header" dir="ltr">
+                <div class="header-top">
+                    <a class="ritaj-logo" href="/">
+                        <img src="/images/ritaj-logo.png" />
+                    </a>
+                    <div class="site-name">
+                        Birzeit University Academic and Administrative Portal
+                        <div class="print-header">
+                            <br/>
+                            
+                            February 24, 2024 19:10 | 77.124.109.91
+                        </div>
+                    </div>
+                    <div class="user-area">
+                        
+                            <div class="login-menu">
+                                24 February | <a href="/">LOGIN</a>
+                            </div>
+                         
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="header-bottom clearfix">
+                    
+                </div>
+            </div>
+        
+        <div id="slave" style="clear:both;" data-step="3" data-intro="Pages boxes and links">
+			<!--[if lt IE 11]>
+                <p class="wbr" style="text-align: center; font-weight: bold; color: red; background-color:#FEFF8F; padding:0.2em; margin:0.4em;">
+                   You are using an <strong>outdated</strong> browser. <br />  Please <a target='_blank' href='http://browsehappy.com/'>upgrade your browser</a> to improve your experience.
+                </p>
+            <![endif]-->
+            <!-- Content Content Start -->
+            ﻿
+
+<style>
+	div.with_margin {
+		text-align:center; 
+		padding:0.6em;
+		margin:0.5em;"
+	}
+</style>
+<div class="with_margin">
+<b>A problem has occured<br><br>
+
+<div class="wbr with_margin" style="color:red;">Attachment Does not exist OR You Don't Have Permission To View this Message</div>
+
+<br><br>
+
+
+	You'll be redirected to the proper page within 60 seconds <br><br>
+	<input type=button class="bt" value="Go Now" onClick="document.location='/'">
+
+</b>
+</p>
+
+<p align=center>
+<input type=button class=bt value="<< Back" onClick="history.go(-1)"> &nbsp;
+<input type=button class=bt value="Ritaj Home" onClick="document.location='/';">
+</div>
+            <!-- Content Content End -->
+        </div>
+        
+            <div class="footer_container">
+                <hr size="1" color="#ababab"/>
+                
+<div dir='ltr'>
+    <a class="hidden-xs" target="_blank" rel="noreferrer" href="https://www.birzeit.edu/">
+        <img src='/images/bzu_logo.png' style='height: 36px;margin: 2px 5px;float: left;'>
+    </a>
+
+    <div style='float: left; padding: 2px 10px; line-height: 20px;'>
+        &#169; 2002 - 2024
+        <a href="https://www.birzeit.edu/" target="_blank" rel="noreferrer">
+            Birzeit University
+        </a>.
+        All Rights Reserved
+        <br>
+        <div style="display: inline-block;">
+            <img src="/images/icons/mail.png" alt="Email" />
+            <a href="https://ritaj.birzeit.edu/emails">عناوين البريد الإلكتروني للتواصل مع الجامعة</a>
+        </div>
+        <div style="display: inline-block;">
+            <img src="/images/icons/tel.png" alt="Tel" />
+            <span dir="ltr">+970-2-2982000</span>
+        </div>
+		<div style="display: inline-block;">
+            &nbsp;&nbsp;
+        </div>
+        <div style="display: inline-block;">
+            <img src="/images/icons/medical.jpg" alt="medical clinc" style="width:15px;height:15px;"/>
+            <span dir="rtl"><font color="red">العيادة: الأرضي 022982151 &nbsp; الخلوي 0592982001</font></span>
+        </div>
+		<div style="display: inline-block;">
+            &nbsp;&nbsp;
+        </div>
+        <div style="display: inline-block;">
+            <img src="/images/icons/guard.jpg" alt="univeristy guards" style="width:15px;height:15px;"/>
+            <span dir="rtl"><font color="red">الحرس: الأرضي 022982919 &nbsp; الخلوي 0599281200</font></span>
+        </div>
+    </div>
+</div>
+            </div>
+        
+    </body>
+</html>
